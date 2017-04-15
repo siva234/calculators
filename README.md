@@ -2,7 +2,7 @@
 Simple interest, compound interest, tax etc.
 
 
-This repository holds the source code of the [angular.io quickstart](https://angular.io/docs/ts/latest/quickstart.html),
+This repository holds the source code of the [calculators](https://github.com/siva234/calculators.git),
 the collection of different calculators in one application.
 
 ## Prerequisites
